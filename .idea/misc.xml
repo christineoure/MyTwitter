@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_ios_share_24.xml" value="0.1755" />
+        <entry key="app/src/main/res/drawable/ic_baseline_repeat_24.xml" value="0.1755" />
+        <entry key="app/src/main/res/drawable/ic_favorite_fill0_wght400_grad0_opsz48__1_.xml" value="0.1755" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/twitter_item_list.xml" value="0.21" />
       </map>
